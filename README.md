@@ -37,7 +37,7 @@
     bash setup.sh
     python D-IP.py
 
-## SCREEN SHOTS :
+## SCREENSHOTS :
 
    <br><a href="https://github.com/DilumBBandara/D-IP"><img src="main.jpg"></a>
    <br><a href="https://github.com/DilumBBandara/D-IP"><img src="dip.jpg"></a>
