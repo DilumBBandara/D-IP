@@ -34,8 +34,14 @@
     pkg install git -y
     git clone https://github.com/DilumBBandara/D-IP.git
     cd D-IP
-    bash setup.sh
-    python D-IP.py
+    python setup.py
+
+## USAGE :
+
+  ```
+   Usage :  Type " D-IP " To Start The Tool.
+         :  Type " D-IP-help " To Show Help.
+  ```
 
 ## SCREENSHOTS :
 
