@@ -34,6 +34,7 @@
     pkg install git -y
     git clone https://github.com/DilumBBandara/D-IP.git
     cd D-IP
+    chmod +x *
     python setup.py
 
 ## USAGE :
