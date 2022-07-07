@@ -32,6 +32,7 @@
     pkg update -y
     pkg upgrade -y
     pkg install git -y
+    pkg install python -y
     git clone https://github.com/DilumBBandara/D-IP.git
     cd D-IP
     chmod +x *
